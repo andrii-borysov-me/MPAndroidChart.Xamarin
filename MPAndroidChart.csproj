@@ -12,12 +12,8 @@
     <RootNamespace>MPAndroidChart</RootNamespace>
     <AssemblyName>MPAndroidChart</AssemblyName>
     <FileAlignment>512</FileAlignment>
-    <AndroidUseLatestPlatformSdk>False</AndroidUseLatestPlatformSdk>
-    <TargetFrameworkVersion>v4.4</TargetFrameworkVersion>
-    <SccProjectName>SAK</SccProjectName>
-    <SccLocalPath>SAK</SccLocalPath>
-    <SccAuxPath>SAK</SccAuxPath>
-    <SccProvider>SAK</SccProvider>
+    <AndroidUseLatestPlatformSdk>True</AndroidUseLatestPlatformSdk>
+    <TargetFrameworkVersion>v9.0</TargetFrameworkVersion>
     <Java7DocPaths>JavaDocs</Java7DocPaths>
     <JavaDocPaths>JavaDocs</JavaDocPaths>
     <AndroidCodegenTarget>XAJavaInterop1</AndroidCodegenTarget>
